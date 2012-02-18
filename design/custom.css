@@ -8,6 +8,14 @@ body {
 
 #Head h1 {
 	color: #FFFFFF;
+	font-size: xx-large;
+	line-height: 130%;
+	letter-spacing: 3px;
+}
+
+.Menu {
+	width: auto;
+	margin: 0 10px;
 }
 
 #Body {
@@ -52,4 +60,8 @@ a.NewDiscussion {
 
 li.New {
 	background-color: #ddeaf8;
+}
+
+div.Popup h1 {
+	background-color: #000000;
 }
