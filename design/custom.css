@@ -1,0 +1,55 @@
+body {
+	background-color: #333333;
+}
+
+#Head {
+	background-color: #000000;
+}
+
+#Head h1 {
+	color: #FFFFFF;
+}
+
+#Body {
+	width: auto;
+}
+
+#Content {
+	width: auto;
+	float: none;
+	margin: 0px 0px 0px 210px;
+	padding: 10px 30px 10px 10px;
+	clear: none;
+	background-color: #ffffff;
+}
+
+#Panel {
+	width: 200px;
+	display: inline;
+	padding: 10px 10px 10px 0px;
+}
+
+#Panel .Box {
+	padding-left: 10px;
+	color: #828888;
+	background-color: #333333;
+}
+
+a.NewDiscussion {
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	background: none;
+	background-color: #bcd5f1;
+}
+
+#Panel input.InputBox {
+	width: 200px;
+}
+
+.Message {
+	clear: none;
+}
+
+li.New {
+	background-color: #ddeaf8;
+}
